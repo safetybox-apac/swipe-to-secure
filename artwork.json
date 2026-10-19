@@ -1,0 +1,212 @@
+{
+  "1": {
+    "context": "Routine maintenance at 20ft using hand tools.",
+    "safe": true,
+    "correct": "Approve Operations",
+    "pack": "pack1",
+    "frame": 0
+  },
+  "2": {
+    "context": "Final visual sweep before aircraft pushback.",
+    "safe": false,
+    "correct": "Halt and clear debris",
+    "pack": "pack1",
+    "frame": 1
+  },
+  "3": {
+    "context": "Scaffolding platform during a shift change.",
+    "safe": false,
+    "correct": "Secure the tool",
+    "pack": "pack1",
+    "frame": 2
+  },
+  "4": {
+    "context": "End-of-shift tool inventory.",
+    "safe": true,
+    "correct": "Approve Operations",
+    "pack": "pack2",
+    "frame": 0
+  },
+  "5": {
+    "context": "Installation of overhead fixtures.",
+    "safe": false,
+    "correct": "Issue a zippered pouch",
+    "pack": "pack2",
+    "frame": 1
+  },
+  "6": {
+    "context": "Performing inspection near an unguarded drop.",
+    "safe": false,
+    "correct": "Enforce tie-off",
+    "pack": "pack2",
+    "frame": 2
+  },
+  "7": {
+    "context": "Transporting materials to the upper deck.",
+    "safe": false,
+    "correct": "Use a hoist/rope",
+    "pack": "pack3",
+    "frame": 0
+  },
+  "8": {
+    "context": "Bringing tools up to the roof level.",
+    "safe": true,
+    "correct": "Approve Operations",
+    "pack": "pack3",
+    "frame": 1
+  },
+  "9": {
+    "context": "Floor condition after a wiring job.",
+    "safe": false,
+    "correct": "Sweep the area",
+    "pack": "pack3",
+    "frame": 2
+  },
+  "10": {
+    "context": "Ground level below active overhead work.",
+    "safe": true,
+    "correct": "Approve Operations",
+    "pack": "pack4",
+    "frame": 0
+  },
+  "11": {
+    "context": "Reaching a high ceiling fixture.",
+    "safe": false,
+    "correct": "Get a taller ladder",
+    "pack": "pack4",
+    "frame": 1
+  },
+  "12": {
+    "context": "Technician took a quick lunch break.",
+    "safe": false,
+    "correct": "Remove items immediately",
+    "pack": "pack4",
+    "frame": 2
+  },
+  "13": {
+    "context": "Routine tarmac maintenance.",
+    "safe": true,
+    "correct": "Approve Operations",
+    "pack": "pack5",
+    "frame": 0
+  },
+  "14": {
+    "context": "Digital inspection on an elevated platform.",
+    "safe": true,
+    "correct": "Approve Operations",
+    "pack": "pack5",
+    "frame": 1
+  },
+  "15": {
+    "context": "Quick adjustment on the hangar floor.",
+    "safe": false,
+    "correct": "Provide a step stool",
+    "pack": "pack5",
+    "frame": 2
+  },
+  "16": {
+    "context": "Waste management setup.",
+    "safe": true,
+    "correct": "Approve Operations",
+    "pack": "pack6",
+    "frame": 0
+  },
+  "17": {
+    "context": "Windy conditions during outdoor ops.",
+    "safe": false,
+    "correct": "Retrieve immediately",
+    "pack": "pack6",
+    "frame": 1
+  },
+  "18": {
+    "context": "Long-term construction structure.",
+    "safe": true,
+    "correct": "Approve Operations",
+    "pack": "pack6",
+    "frame": 2
+  },
+  "19": {
+    "context": "Post-maintenance ceiling inspection.",
+    "safe": false,
+    "correct": "Retrieve the tool",
+    "pack": "pack7",
+    "frame": 0
+  },
+  "20": {
+    "context": "Climbing structural steel.",
+    "safe": true,
+    "correct": "Approve Operations",
+    "pack": "pack7",
+    "frame": 1
+  },
+  "21": {
+    "context": "Setting up a temporary projector for a meeting.",
+    "safe": false,
+    "correct": "Tape down or use a cable cover",
+    "pack": "pack7",
+    "frame": 2
+  },
+  "22": {
+    "context": "Employee needing more outlets for personal devices.",
+    "safe": false,
+    "correct": "Unplug and request proper wiring",
+    "pack": "pack8",
+    "frame": 0
+  },
+  "23": {
+    "context": "Recent office supply delivery left in the hallway.",
+    "safe": false,
+    "correct": "Relocate boxes immediately",
+    "pack": "pack8",
+    "frame": 1
+  },
+  "24": {
+    "context": "Recent spill that was just mopped up.",
+    "safe": true,
+    "correct": "Approve Operations",
+    "pack": "pack8",
+    "frame": 2
+  },
+  "25": {
+    "context": "Running out of storage space in a cubicle.",
+    "safe": false,
+    "correct": "Move heavy items to bottom shelves",
+    "pack": "pack9",
+    "frame": 0
+  },
+  "26": {
+    "context": "Employee walked away to answer a phone call.",
+    "safe": false,
+    "correct": "Close the drawer",
+    "pack": "pack9",
+    "frame": 1
+  },
+  "27": {
+    "context": "Relaxing during a long conference call.",
+    "safe": false,
+    "correct": "Keep all wheels on the floor",
+    "pack": "pack9",
+    "frame": 2
+  },
+  "28": {
+    "context": "A newly set up ergonomic workstation.",
+    "safe": true,
+    "correct": "Approve Operations",
+    "pack": "pack10",
+    "frame": 0
+  },
+  "29": {
+    "context": "Disposing of confidential documents in the copy room.",
+    "safe": false,
+    "correct": "Tuck in or remove the tie",
+    "pack": "pack10",
+    "frame": 1
+  },
+  "30": {
+    "context": "Left unattended after assembling a presentation.",
+    "safe": false,
+    "correct": "Lower and lock the blade",
+    "pack": "pack10",
+    "frame": 2
+  }
+}
